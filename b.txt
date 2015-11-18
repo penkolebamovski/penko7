@@ -1,0 +1,11 @@
+	/**
+     * Method returns the sum of two integers
+     * @param a It is the first of numbers
+     * @param b It is the second one
+     * @return the sum
+     */
+    public int sum(int a,int b)
+    {
+        return a+b;
+    }
+
